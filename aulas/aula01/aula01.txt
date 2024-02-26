@@ -1,0 +1,8 @@
+ls - lista arquivos
+cd pasta - acessa pasta
+cd .. - volta para a pasta anterior
+clear - limpa o shell
+pwd - mostra o endereço da pasta
+
+gcc nome_do_arquivo.c -o nomedacompilação -lm
+lm - linking module
